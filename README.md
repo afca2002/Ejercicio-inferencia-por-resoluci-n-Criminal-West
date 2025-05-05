@@ -1,1 +1,1 @@
-# Ejercicio-inferencia-por-resoluci-n-Criminal-West
+# Ejercicio-inferencia-por-resolucion-Criminal-West
